@@ -12,6 +12,6 @@
 </div>
 <br>
 
+![GitHub watchers](https://img.shields.io/github/watchers/Fukuroudotty/NOME_REPOSITORIO?style=social)
 
-![GitHub followers](https://img.shields.io/github/followers/Fukuroudotty?style=social)
 
