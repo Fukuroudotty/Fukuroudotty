@@ -12,6 +12,7 @@
 </div>
 <br>
 
-![GitHub watchers](https://img.shields.io/github/watchers/Fukuroudotty/NOME_REPOSITORIO?style=social)
+![Visitors](https://komarev.com/ghpvc/?username=fukuroudotty)
+
 
 
