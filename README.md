@@ -12,6 +12,8 @@
 </div>
 <br>
 
+![Visitors](https://komarev.com/ghpvc/?username=fukuroudotty&color=blue)
+
 ![Visitors](https://komarev.com/ghpvc/?username=fukuroudotty)
 
 
