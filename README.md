@@ -1,7 +1,8 @@
 - Sobre mim: Olá! Você pode me chamar de Dotty.ˎˊ˗
 - tenho 19 anos no momento e estou cursando ADS.
 - foco em desenvolvimento web front-end
-- [Instagram](https://www.instagram.com/cwhaaw_) | [StrawPage](https://fukuroudotty.straw.page) | [Patreon](https://patreon.com/Fukuroudotty) | ![Stalkers](https://shields.io/badge/Stalkers-26,253-black)
+- [Instagram](https://www.instagram.com/cwhaaw_) | [StrawPage](https://fukuroudotty.straw.page) | [Patreon](https://patreon.com/Fukuroudotty)
+- ![Stalkers](https://shields.io/badge/Stalkers-26,253-black)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fukuroudotty&layout=compact&theme=dark&langs_count=10)
