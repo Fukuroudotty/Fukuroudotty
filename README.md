@@ -13,6 +13,7 @@
 <br>
 
 
+![Stalkers](https://shields.io/badge/Stalkers-26,253-green)
 
 ![Visitors](https://komarev.com/ghpvc/?username=fukuroudotty)
 
