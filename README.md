@@ -2,9 +2,6 @@
 - tenho 19 anos no momento e estou cursando ADS.
 - foco em desenvolvimento web front-end
 - [Instagram](https://www.instagram.com/cwhaaw_) | [StrawPage](https://fukuroudotty.straw.page) | [Patreon](https://patreon.com/Fukuroudotty)
-  
-- ![Stalkers](https://shields.io/badge/Stalkers-26,253-black)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fukuroudotty&layout=compact&theme=dark&langs_count=10)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fukuroudotty&show_icons=true&theme=dark&count_show_icons=true&scale=0.8_private=true&hide=contribs,prs)
