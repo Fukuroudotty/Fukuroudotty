@@ -16,6 +16,7 @@
 
   <br>
   ——⟣　　<a href="https://www.instagram.com/cwhaaw_">Instagram</a>  .  <a href="https://fukuroudotty.straw.page">StrawPage</a>  .  <a href="https://bsky.app/profile/fukuroudotty.bsky.social">Bluesky</a>　　⟢——
+<a https=https://yttod.straw.page">Artes</a>  .  <a https="https://patreon.com/Fukuroudotty">Patreon</a>
  <br>
   </p>
 
