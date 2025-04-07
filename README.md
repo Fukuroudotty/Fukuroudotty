@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=75706c&size=20&center=true&vCenter=true&width=1000&lines=-+Hi!;-+Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="150px" src="https://github-readme-stats.vercel.app/api?username=Fukuroudotty&show_icons=true&count_private=true&hide_border=true&title_color=388f65&icon_color=388f65&text_color=c9d1d9&bg_color=0d1117" alt="Dotty github stats" /> 
-  <img width="41%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fukuroudotty&layout=compact&hide_border=true&title_color=388f65&text_color=388f65&bg_color=0d1117" />
+  <img width="49%" height="150px" src="https://github-readme-stats.vercel.app/api?username=Fukuroudotty&show_icons=true&count_private=true&hide_border=true&title_color=75706c&icon_color=75706c&text_color=c9d1d9&bg_color=0d1117" alt="Dotty github stats" /> 
+  <img width="41%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fukuroudotty&layout=compact&hide_border=true&title_color=75706c&text_color=75706c&bg_color=0d1117" />
 </div>
 
 <p align="center">
