@@ -8,11 +8,11 @@
 </div>
 
 <p align="center">
-   <br> ${\textsf{\color{#388f65}- About me: Hi! You can call me Dotty.ˎˊ˗}}$ 
+   <br> ${\textsf{\color{#75706c}- About me: Hi! You can call me Dotty.ˎˊ˗}}$ 
  <br>
-  ${\textsf{\color{#388f65}- I'm 19 years old at the moment and I'm studying ADS.}}$ 
+  ${\textsf{\color{#75706c}- I'm 19 years old at the moment and I'm studying ADS.}}$ 
  <br>
-  ${\textsf{\color{#388f65}- Focus on front-end web development and design.}}$ 
+  ${\textsf{\color{#75706c}- Focus on front-end web development and design.}}$ 
 
   <br>
   ——⟣　　<a href="https://www.instagram.com/cwhaaw_">Instagram</a>  .  <a href="https://fukuroudotty.straw.page">StrawPage</a>  .  <a href="https://bsky.app/profile/fukuroudotty.bsky.social">Bluesky</a>　　⟢——
