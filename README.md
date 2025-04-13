@@ -10,7 +10,7 @@
 <p align="center">
    <br> ${\textsf{\color{#75706c}- About me: Hi! You can call me Dotty.ˎˊ˗}}$ 
  <br>
-  ${\textsf{\color{#75706c}- I'm 19 years old at the moment and I'm studying ADS.}}$ 
+  ${\textsf{\color{#75706c}- I'm 20 years old at the moment and I'm studying ADS.}}$ 
  <br>
   ${\textsf{\color{#75706c}- Focus on front-end web development and design.}}$ 
 
